@@ -30,7 +30,7 @@ Here is a list of existing routes available in the API:
 
 | Method   | URL                 | Description                                     |
 | :------- |:------------------- | :---------------------------------------------- |
-| POST     | /api/v1/artist}     | Add new artist                                  |
+| POST     | /api/v1/artist      | Add new artist                                  |
 | GET      | /api/v1/artist      | Get artist list (parameters: name, album_name)  |
 | POST     | /api/v1/album       | Add new album                                   |
 | PUT      | /api/v1/album/{id}  | Update existing album                           |
