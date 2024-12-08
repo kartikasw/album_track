@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "api.base.path",
+  "type": "java.lang.String",
+  "description": "API Base Path"
+}]}
